@@ -1,0 +1,13 @@
+My name is Elijah Quiñones you can also call me EJ.
+
+I do have access to both a computer and internet access at home.
+
+Yes I have some programing experience as I used to be a CS major at Umass Lowell as such I have done Java, Assembly, HTML, CSS, JavaScript and in my own time I have learned a bit of python.
+
+I do have a job and typically work 40 hours however most of my job consists of monitoring servers for any critical alerts so I have a lot of downtime during my shifts which I use to study. I would say during a 9 hour weekend shift 8 of those hours are free just making sure to listen to my email for any notifications and answering any phone calls I would get.
+
+I am taking 5 courses this semester.
+
+4 of these courses are mathematics and IT courses. 
+
+I am currently a junior in IT and I really love the IT field so far. I currently am employed as a NOC Engineer at Protocol Networks where I do basic IT work such as managing active directory, distributing RSA tokens, monitoring servers for critical alerts, Installing software for clients and remoting into clients machines to assist with any issues they may be having.
